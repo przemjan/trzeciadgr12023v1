@@ -25,7 +25,9 @@ public class Zmienne {
         System.out.print("Mój napis: " + napis + "\n");
         System.out.print("Mój napis: " + napis);
 
+        // https://github.com/przemjan/trzeciadgr12023v1
 
+        // Tworzenie i testowanie programów i aplikacji.
 
 
     }
